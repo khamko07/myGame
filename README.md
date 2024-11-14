@@ -50,4 +50,4 @@ To run this game locally, follow these steps:
 - Developed by Khamko
 - Powered by [Phaser 3](https://phaser.io/phaser3)
 
-Enjoy the game!
+Enjoy the game!: https://khamko07.github.io/myGame/
